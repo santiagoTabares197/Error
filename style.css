@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #4276CB ;
+}
+.login{
+    height: 280px;
+    width: 250px;
+    background-color:  #5593F9 ;
+    box-shadow:0px 0px 5px 1px black;
+    border-radius: 2px;
+}
+.title{
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 50px;
+}
+.title2{
+    font-size: 30px;
+    font-family: 'Baloo Tammudu 2', cursive;
+    color: white;
+}
+.boton{
+   width: 200px;
+   height: 40px;
+   background-color: #95B7F0 ;
+}
+.user,.pass{
+    height: 30px;
+    width: 200px;
+}
+
